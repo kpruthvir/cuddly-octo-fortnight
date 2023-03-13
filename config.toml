@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kpruthvir.github.io/cuddly-octo-fortnight/'
 languageCode = 'en-us'
 title = 'Test Site'
 theme = 'hugo-theme-itheme'
