@@ -1,4 +1,4 @@
-baseURL = 'https://kpruthvir.github.io/cuddly-octo-fortnight/'
+baseURL = 'http://localhost:1313/temp-folder/'
 languageCode = 'en-us'
 title = 'Test Site'
 theme = 'hugo-theme-itheme'
